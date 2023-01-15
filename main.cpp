@@ -1,3 +1,1 @@
-void test();
-
-int main(){}
+int MAINFUNC(){}
