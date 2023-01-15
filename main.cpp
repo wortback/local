@@ -1,3 +1,3 @@
 void test();
 
-int MAINFUNC(){}
+int MAINFUNC(){ int c = 0; }
