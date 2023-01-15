@@ -1,3 +1,3 @@
 void test();
 
-int main(){}
+int MainFunc(){}
